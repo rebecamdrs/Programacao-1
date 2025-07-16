@@ -1,0 +1,9 @@
+- input: |
+  401
+  4
+  100
+  200
+  500
+  1000
+output: |
+  2 voo(s) autorizados.
